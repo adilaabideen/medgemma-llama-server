@@ -29,5 +29,4 @@ jobs:
           context: .
           platforms: linux/amd64
           push: true
-          tags: adilcodes/medgemma-llama-server-q8:latest
-          
+          tags: adilcodes/medgemma-llama-server-q8:v2
